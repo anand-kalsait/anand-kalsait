@@ -4,9 +4,7 @@
 
 ###
 
-<div align="center">
-  <img height="250" src="https://media.licdn.com/dms/image/D4D16AQFTrvakknq70Q/profile-displaybackgroundimage-shrink_350_1400/0/1719347394957?e=1724889600&v=beta&t=ERCX0KuPtpQMSR7B9_nLw0W1QJO9z4yfSP6KGIDoxUk"  />
-</div>
+<img align="right" height="175" src="https://media.licdn.com/dms/image/D4D16AQFTrvakknq70Q/profile-displaybackgroundimage-shrink_350_1400/0/1719347394957?e=1724889600&v=beta&t=ERCX0KuPtpQMSR7B9_nLw0W1QJO9z4yfSP6KGIDoxUk"  />
 
 ###
 
@@ -41,13 +39,9 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">⚙️    Technologies that I have worked with....</h4>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
@@ -90,6 +84,8 @@
 <h3 align="left">🏢    ----SKILLS----</h3>
 
 ###
+
+<br clear="both">
 
 <h4 align="left">🌟Programming Languages : 	Python, SQL<br>🌟Frameworks :  		Numpy, Pandas, Matplotlib, ETL, PySpark<br>🌟Tools : 			Airflow, Spark, GitHub, SQLite, MySQL Workspace, Tableau, JIRA, SSMS<br>🌟Platform :			VS Code, Python IDE, Jupyter Notebook, Visual Studio</h4>
 
