@@ -4,7 +4,11 @@
 
 ###
 
-<img align="right" height="175" src="https://media.licdn.com/dms/image/D4D16AQFTrvakknq70Q/profile-displaybackgroundimage-shrink_350_1400/0/1719347394957?e=1724889600&v=beta&t=ERCX0KuPtpQMSR7B9_nLw0W1QJO9z4yfSP6KGIDoxUk"  />
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/D4D16AQFTrvakknq70Q/profile-displaybackgroundimage-shrink_350_1400/0/1719347394957?e=1724889600&v=beta&t=ERCX0KuPtpQMSR7B9_nLw0W1QJO9z4yfSP6KGIDoxUk"  />
+</div>
 
 ###
 
