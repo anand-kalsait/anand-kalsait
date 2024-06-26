@@ -30,54 +30,16 @@
   <a href="https://www.linkedin.com/in/anand-kalsait" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="aakalsait@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/1/?to=aakalsait@gmail.com&su=SUBJECT&body=BODY&fs=1&tf=cm" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/anandkalsait" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="hackerrank logo"  />
   </a>
-  <a href="alexmercer99" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <a href="https://drive.google.com/file/d/1OR9WPtv-hpM0iBzp0LQQ0Sqso-xT_a1X/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=RESUME&logo=codesandbox&label=&color=048EFF&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="40" alt="codesandbox logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<h3 align="left">🏢    ----WORK EXPERIENCE----</h3>
-
-###
-
-<h4 align="left">Python Developer</h4>
-
-###
-
-<h5 align="left">Web Minds IT Solution · Full-time    <br> Jan 2023 - Present · 1 yr 6 mos<br>Pune, Maharashtra, India · Hybrid</h5>
-
-###
-
-<br clear="both">
-
-<h3 align="left">🏢    ----EDUCATION----</h3>
-
-###
-
-<h4 align="left">Government College of Engineering Yavatmal</h4>
-
-###
-
-<h5 align="left">Bachelor of Technology - B.Tech, Computer Engineering<br>Aug 2018 - Nov 2022<br>Grade: CGPA - 9.10</h5>
-
-###
-
-<br clear="both">
-
-<h3 align="left">🏢    ----SKILLS----</h3>
-
-###
-
-<h4 align="left">🌟Programming Languages : 	Python, SQL<br>🌟Frameworks :  		Numpy, Pandas, Matplotlib, ETL, PySpark<br>🌟Tools : 			Airflow, Spark, GitHub, SQLite, MySQL Workspace, Tableau, JIRA, SSMS<br>🌟Platform :			VS Code, Python IDE, Jupyter Notebook, Visual Studio</h4>
 
 ###
 
@@ -122,6 +84,44 @@
   <img width="20" />
   <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="50" alt="visualstudio logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">🏢    ----SKILLS----</h3>
+
+###
+
+<h4 align="left">🌟Programming Languages : 	Python, SQL<br>🌟Frameworks :  		Numpy, Pandas, Matplotlib, ETL, PySpark<br>🌟Tools : 			Airflow, Spark, GitHub, SQLite, MySQL Workspace, Tableau, JIRA, SSMS<br>🌟Platform :			VS Code, Python IDE, Jupyter Notebook, Visual Studio</h4>
+
+###
+
+<br clear="both">
+
+<h3 align="left">🏢    ----WORK EXPERIENCE----</h3>
+
+###
+
+<h3 align="left">Python Developer</h3>
+
+###
+
+<h5 align="left">Web Minds IT Solution · Full-time    <br> Jan 2023 - Present · 1 yr 6 mos<br>Pune, Maharashtra, India · Hybrid</h5>
+
+###
+
+<br clear="both">
+
+<h3 align="left">🏢    ----EDUCATION----</h3>
+
+###
+
+<h3 align="left">Government College of Engineering Yavatmal</h3>
+
+###
+
+<h5 align="left">Bachelor of Technology - B.Tech, Computer Engineering<br>Aug 2018 - Nov 2022<br>Grade: CGPA - 9.10</h5>
 
 ###
 
