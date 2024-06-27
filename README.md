@@ -74,7 +74,6 @@
 
 ###
 
-
 <h3 align="left">🏢    ----SKILLS----</h3>
 
 ###
@@ -91,7 +90,7 @@
 
 ###
 
-<h5 align="left">Web Minds IT Solution · Full-time    <br> Jan 2023 - Present · 1 yr 6 mos<br>Pune, Maharashtra, India · Hybrid</h5>
+<h4 align="left">Web Minds IT Solution · Full-time    <br> Jan 2023 - Present · 1 yr 6 mos<br>Pune, Maharashtra, India · Hybrid</h4>
 
 ###
 
@@ -103,7 +102,7 @@
 
 ###
 
-<h5 align="left">Bachelor of Technology - Computer Engineering<br>Aug 2018 - Nov 2022<br>Grade: CGPA - 9.10</h5>
+<h4 align="left">Bachelor of Technology - Computer Engineering<br>University - Dr. Babasaheb Ambedkar Technological University, Lonere - 402103<br>Aug 2018 - Nov 2022<br>Grade: CGPA - 9.10</h4>
 
 ###
 
