@@ -83,15 +83,23 @@
 
 ###
 
-<h4 align="left"><br>🌟Programming Languages : 	Python, SQL<br>🌟Frameworks :  		Numpy, Pandas, Matplotlib, ETL, PySpark<br>🌟Tools : 			Airflow, Spark, GitHub, SQLite, MySQL Workspace, Tableau, JIRA, SSMS<br>🌟Platform :			VS Code, Python IDE, Jupyter Notebook, Visual Studio</h4>
+<br clear="both">
+
+<h4 align="left">🌟Programming Languages : 	Python, SQL<br>🌟Frameworks :  		Numpy, Pandas, Matplotlib, ETL, PySpark<br>🌟Tools : 			Airflow, Spark, GitHub, SQLite, MySQL Workspace, Tableau, JIRA, SSMS<br>🌟Platform :			VS Code, Python IDE, Jupyter Notebook, Visual Studio</h4>
 
 ###
 
+<br clear="both">
+
 <h3 align="left">🏢    ----WORK EXPERIENCE----</h3>
+
+###
 
 <h3 align="left">Python Developer</h3>
 
-<h5 align="left">Web Minds IT Solution ·         Full-time    <br>Jan 2023 - Present ·         1 yr 6 mos<br>Pune, Maharashtra, India ·         Hybrid</h5>
+###
+
+<h5 align="left">Web Minds IT Solution · Full-time    <br> Jan 2023 - Present · 1 yr 6 mos<br>Pune, Maharashtra, India · Hybrid</h5>
 
 ###
 
@@ -99,11 +107,15 @@
 
 <h3 align="left">🏢    ----EDUCATION----</h3>
 
+###
+
 <h3 align="left">Government College of Engineering Yavatmal</h3>
 
-<h5 align="left">Bachelor of Technology - B.Tech, Computer Engineering                Aug 2018 - Nov 2022<br>Grade: CGPA - 9.10</h5>
+###
 
+<h5 align="left">Bachelor of Technology - B.Tech, Computer Engineering<br>Aug 2018 - Nov 2022<br>Grade: CGPA - 9.10</h5>
 
+###
 
 <br clear="both">
 
