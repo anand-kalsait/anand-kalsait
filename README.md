@@ -90,7 +90,7 @@
 
 ###
 
-<h4 align="left">Web Minds IT Solution · Full-time    <br> Jan 2023 - Present · 1 yr 6 mos<br>Pune, Maharashtra, India · Hybrid</h4>
+<h4 align="left">Web Minds IT Solution<br>Full-time · Hybrid<br> Jan 2023 - Present · 1 yr 6 mos<br>Pune, Maharashtra, India </h4>
 
 ###
 
