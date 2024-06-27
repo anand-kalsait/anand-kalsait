@@ -72,7 +72,7 @@
 </div>
 
 ###
-<br clear="">
+<br clear>
 <h3 align="left">🏢    ----SKILLS----</h3>
 
 ###
