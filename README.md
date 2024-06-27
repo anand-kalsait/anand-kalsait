@@ -83,13 +83,9 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left"><br>🌟Programming Languages : 	Python, SQL<br>🌟Frameworks :  		Numpy, Pandas, Matplotlib, ETL, PySpark<br>🌟Tools : 			Airflow, Spark, GitHub, SQLite, MySQL Workspace, Tableau, JIRA, SSMS<br>🌟Platform :			VS Code, Python IDE, Jupyter Notebook, Visual Studio</h4>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">🏢    ----WORK EXPERIENCE----</h3>
 
