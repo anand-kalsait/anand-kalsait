@@ -1,4 +1,3 @@
-<br clear="both">
 
 <div align="center">
   <img height="200" src="https://media.licdn.com/dms/image/D4D16AQFTrvakknq70Q/profile-displaybackgroundimage-shrink_350_1400/0/1719347394957?e=1724889600&v=beta&t=ERCX0KuPtpQMSR7B9_nLw0W1QJO9z4yfSP6KGIDoxUk"  />
@@ -9,8 +8,6 @@
 <h2 align="left">Greetings 👋🏻<br>Anand A. Kalsait here!<br>Machine Learning Enthusiast | Python | SQL | Tableau | Data Visualization and Analytics | Data Engineer</h2>
 
 ###
-
-<br clear="both">
 
 <img align="left" height="250" src="https://media.licdn.com/dms/image/D4D03AQHp5aqnAD5VFA/profile-displayphoto-shrink_200_200/0/1719037780580?e=1724889600&v=beta&t=6p-6mOoJ4QvGDSVnxKcvWK-KUwutT64ordImPOZFCxQ"  />
 
@@ -77,19 +74,14 @@
 
 ###
 
-<br clear="both">
 
 <h3 align="left">🏢    ----SKILLS----</h3>
 
 ###
 
-<br clear="both">
-
 <h4 align="left">🌟Programming Languages : 	Python, SQL<br>🌟Frameworks :  		Numpy, Pandas, Matplotlib, ETL, PySpark<br>🌟Tools : 			Airflow, Spark, GitHub, SQLite, MySQL Workspace, Tableau, JIRA, SSMS<br>🌟Platform :			VS Code, Python IDE, Jupyter Notebook, Visual Studio</h4>
 
 ###
-
-<br clear="both">
 
 <h3 align="left">🏢    ----WORK EXPERIENCE----</h3>
 
@@ -103,8 +95,6 @@
 
 ###
 
-<br clear="both">
-
 <h3 align="left">🏢    ----EDUCATION----</h3>
 
 ###
@@ -113,11 +103,9 @@
 
 ###
 
-<h5 align="left">Bachelor of Technology - B.Tech, Computer Engineering<br>Aug 2018 - Nov 2022<br>Grade: CGPA - 9.10</h5>
+<h5 align="left">Bachelor of Technology - Computer Engineering<br>Aug 2018 - Nov 2022<br>Grade: CGPA - 9.10</h5>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anand-kalsait&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
