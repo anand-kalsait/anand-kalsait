@@ -77,7 +77,7 @@
 
 ###
 
-<h4 align="left">🌟Programming Languages : 	Python, SQL<br>🌟Frameworks :  		Numpy, Pandas, Matplotlib, ETL, PySpark<br>🌟Tools : 			Airflow, Spark, GitHub, SQLite, MySQL Workspace, Tableau, JIRA, SSMS<br>🌟Platform :			VS Code, Python IDE, Jupyter Notebook, Visual Studio</h4>
+<h4 align="left">🌟Programming Languages : 	Python, SQL<br>🌟Frameworks :  		Numpy, Pandas, Matplotlib, ETL, PySpark<br>🌟Tools : 			Airflow, Spark, GitHub, SQLite, MySQL Workspace, Tableau, JIRA, SSMS, Excel<br>🌟Platform :			VS Code, Python IDE, Jupyter Notebook, Visual Studio</h4>
 
 ###
 
