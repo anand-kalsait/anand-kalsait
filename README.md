@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Greetings 👋🏻<br>Anand A. Kalsait here!<br>Machine Learning Enthusiast | Python | SQL | Tableau | Data Visualization and Analytics | Data Engineer</h2>
+<h2 align="left">Greetings 👋🏻<br>Anand A. Kalsait here!<br>Machine Learning Enthusiast | Python | SQL | Tableau | Data Visualization and Analytics | Data Engineer | Web Development</h2>
 
 ###
 
@@ -77,7 +77,7 @@
 
 ###
 
-<h4 align="left">🌟Programming Languages : 	Python, SQL<br>🌟Frameworks :  		Numpy, Pandas, Matplotlib, ETL, PySpark<br>🌟Tools : 			Airflow, Spark, GitHub, SQLite, MySQL Workspace, Tableau, JIRA, SSMS, Excel<br>🌟Platform :			VS Code, Python IDE, Jupyter Notebook, Visual Studio</h4>
+<h4 align="left">🌟Programming Languages : 	Python, SQL, HTML*, CSS*, JavaScript*<br>🌟Frameworks :  		Numpy, Pandas, Matplotlib, ETL, PySpark, Django*<br>🌟Tools : 			Airflow, Spark, GitHub, SQLite, MySQL Workspace, Tableau, JIRA, SSMS, Excel<br>🌟Platform :			VS Code, Python IDE, Jupyter Notebook, Visual Studio</h4>
 
 ###
 
