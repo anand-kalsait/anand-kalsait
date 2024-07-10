@@ -22,7 +22,7 @@
   <a href="https://www.hackerrank.com/profile/anandkalsait" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerrank logo"  />
   </a>
-  <a href="https://drive.google.com/file/d/1OR9WPtv-hpM0iBzp0LQQ0Sqso-xT_a1X/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/10GEnnP9AZWbTbxPhKnXZ-q9Xi8m9V5Vl/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/static/v1?message=RESUME&logo=codesandbox&label=&color=048EFF&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="30" alt="codesandbox logo"  />
   </a>
 </div>
