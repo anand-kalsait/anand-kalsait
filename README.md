@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/D4D16AQFTrvakknq70Q/profile-displaybackgroundimage-shrink_350_1400/0/1719347394957?e=1724889600&v=beta&t=ERCX0KuPtpQMSR7B9_nLw0W1QJO9z4yfSP6KGIDoxUk"  />
-</div>
-
 ###
 
 <h2 align="left">Greetings 👋🏻<br>Anand A. Kalsait here!<br>Machine Learning Enthusiast | Python | SQL | Tableau | Data Visualization and Analytics | Data Engineer | Web Development</h2>
@@ -103,6 +99,10 @@
 
 <h4 align="left">Bachelor of Technology - Computer Engineering<br>University - Dr. Babasaheb Ambedkar Technological University, Lonere - 402103<br>Aug 2018 - Nov 2022<br>Grade: CGPA - 9.10</h4>
 
+###
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/D4D16AQFTrvakknq70Q/profile-displaybackgroundimage-shrink_350_1400/0/1719347394957?e=1724889600&v=beta&t=ERCX0KuPtpQMSR7B9_nLw0W1QJO9z4yfSP6KGIDoxUk"  />
+</div>
 ###
 
 <div align="center">
