@@ -103,7 +103,6 @@
 <div align="center">
   <img height="200" src="https://media.licdn.com/dms/image/D4D16AQFTrvakknq70Q/profile-displaybackgroundimage-shrink_350_1400/0/1719347394957?e=1724889600&v=beta&t=ERCX0KuPtpQMSR7B9_nLw0W1QJO9z4yfSP6KGIDoxUk"  />
 </div>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anand-kalsait&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
