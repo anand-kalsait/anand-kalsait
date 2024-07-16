@@ -4,7 +4,7 @@
 
 ###
 
-<img align="left" height="200" src="https://media.licdn.com/dms/image/D4D03AQHp5aqnAD5VFA/profile-displayphoto-shrink_200_200/0/1719037780580?e=1724889600&v=beta&t=6p-6mOoJ4QvGDSVnxKcvWK-KUwutT64ordImPOZFCxQ"  />
+<img align="left" height="150" src="https://media.licdn.com/dms/image/D4D03AQHp5aqnAD5VFA/profile-displayphoto-shrink_200_200/0/1719037780580?e=1724889600&v=beta&t=6p-6mOoJ4QvGDSVnxKcvWK-KUwutT64ordImPOZFCxQ"  />
 
 ###
 
